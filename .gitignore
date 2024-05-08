@@ -15,4 +15,4 @@ coverage
 bun.lockb
 
 # ignore final build files
-lib
+# lib
